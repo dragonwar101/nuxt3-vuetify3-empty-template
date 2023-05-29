@@ -1,0 +1,10 @@
+html {
+    .v-locale--is-rtl {
+        direction: rtl;
+        font-family: "Cairo Play", Cairo;
+    }
+    .v-locale--is-ltr {
+        direction: ltr;
+        font-family: Sora, sans-serif;
+    }
+}
